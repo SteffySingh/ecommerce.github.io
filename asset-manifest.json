@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ecommerce.github.io/static/css/main.3c90a5ea.css",
+    "main.js": "/ecommerce.github.io/static/js/main.0c23d241.js",
+    "static/media/camera.jpg": "/ecommerce.github.io/static/media/camera.4690b3240fada123d513.jpg",
+    "static/media/cam1.jpg": "/ecommerce.github.io/static/media/cam1.4175cbb12d3d68b78064.jpg",
+    "index.html": "/ecommerce.github.io/index.html",
+    "main.3c90a5ea.css.map": "/ecommerce.github.io/static/css/main.3c90a5ea.css.map",
+    "main.0c23d241.js.map": "/ecommerce.github.io/static/js/main.0c23d241.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c90a5ea.css",
+    "static/js/main.0c23d241.js"
+  ]
+}
